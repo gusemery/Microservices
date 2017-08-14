@@ -21,4 +21,3 @@ C:\source\repos\github\gusemery\Microservices\Microservices\Microservices.Status
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices.Status\bin\Debug\System.Web.WebPages.Razor.xml
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices.Status\obj\Debug\Microservices.Status.dll
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices.Status\obj\Debug\Microservices.Status.pdb
-C:\source\repos\github\gusemery\Microservices\Microservices\Microservices.Status\obj\Debug\Microservices.Status.csprojResolveAssemblyReference.cache

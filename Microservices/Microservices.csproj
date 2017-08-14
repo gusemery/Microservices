@@ -75,9 +75,9 @@
     <Compile Include="ConsulServiceRegistration.cs" />
     <Compile Include="CreateHttpServer.cs" />
     <Compile Include="HttpServer.cs" />
-    <Compile Include="IService.cs" />
-    <Compile Include="IServiceDiscoveryClient.cs" />
-    <Compile Include="IServiceRegistration.cs" />
+    <Compile Include="Interfaces\IService.cs" />
+    <Compile Include="Interfaces\IServiceDiscoveryClient.cs" />
+    <Compile Include="Interfaces\IServiceRegistration.cs" />
     <Compile Include="Models\ServiceId.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

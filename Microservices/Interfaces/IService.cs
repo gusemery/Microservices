@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Microservices.Common
+namespace Microservices.Interfaces
 {
     /// <summary>
     /// A service with hooks for running code when it starts and stops

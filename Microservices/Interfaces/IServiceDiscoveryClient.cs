@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microservices.Models;
 using JetBrains.Annotations;
 
-namespace Microservices
+namespace Microservices.Interfaces
 {
     /// <summary>
     /// Provides a wrapper implementation for exposing a means of service discovery

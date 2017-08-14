@@ -23,8 +23,7 @@ namespace Microservices.Status
             /// Returns an HTTP 200 status code to show API pipeline is working
             /// </summary>
             [HttpGet]
-            [StatusRoute()]
-            
+            [StatusRoute()]            
             public virtual HttpResponseMessage Status()
             {
                 return new HttpResponseMessage(System.Net.HttpStatusCode.OK);

@@ -1,4 +1,3 @@
-C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\obj\Debug\Microservices.csprojResolveAssemblyReference.cache
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\bin\Debug\Microservices.exe.config
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\bin\Debug\Microservices.exe
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\bin\Debug\Microservices.pdb

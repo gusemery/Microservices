@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Microservices
+namespace Microservices.Interfaces
 {
     public interface IServiceRegistration
     {
