@@ -18,3 +18,6 @@ C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\obj\De
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\obj\Debug\Microservices.pdb
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\bin\Debug\JetBrains.Annotations.dll
 C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\bin\Debug\JetBrains.Annotations.xml
+C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\bin\Debug\Microservices.Status.dll
+C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\bin\Debug\Microservices.Status.pdb
+C:\source\repos\github\gusemery\Microservices\Microservices\Microservices\obj\Debug\Microservices.csprojResolveAssemblyReference.cache

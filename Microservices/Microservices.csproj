@@ -90,7 +90,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controllers\StatusController.cs" />
+    <ProjectReference Include="..\Microservices.Status\Microservices.Status.csproj">
+      <Project>{f52fbb3e-5903-4f16-9d09-27225936f626}</Project>
+      <Name>Microservices.Status</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
